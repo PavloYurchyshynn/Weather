@@ -1,0 +1,21 @@
+.item {
+    float: left;
+    text-align: center;
+    padding: 0 5px;
+
+}
+
+.item:not(:first-child) {
+    border-left: 1px solid rgb(66, 170, 245);
+}
+
+.main_item {
+    display: flex;
+    justify-content: center;
+}
+
+.weather_info {
+    background-color: white;
+    border: 1px solid rgb(66, 170, 245);
+    border-radius: 5px;
+}

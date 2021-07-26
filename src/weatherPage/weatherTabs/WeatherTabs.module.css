@@ -1,0 +1,14 @@
+.weather_tabs {
+    background-color: rgb(66, 170, 245);
+    border-radius: 5px;
+}
+
+.weather_tab {
+    padding: 30px 0 30px;
+    background-color: rgb(224, 246, 255);
+    border-radius: 5px;
+}
+
+.weather_container {
+    margin: 50px 100px;
+}
